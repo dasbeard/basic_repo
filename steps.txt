@@ -1,0 +1,1 @@
+After creating a repo for this assignment on GitHub, I then created a corisponfding directory on my local machine. Then I initialized it with git init. I created 2 files (index.html and styles.css) and then added and commited these changes to my local repo. After pushing my local repo to GitHub, I modified my local repo, then updated it before pushing them to GitHub. 
